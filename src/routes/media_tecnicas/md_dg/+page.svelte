@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <main>
 <h1 class="t1_cc">
     DISEÑO GRAFICO
@@ -57,6 +53,7 @@
 <style>
     .t1_cc{
         color: #9d4edd;
+        text-align: center;
     }
     .t2_cc{
         color: #9d4edd;

@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <main>
 <h1 class="t1_cc">
     DESARROLLO DE SOFTWARE
@@ -70,6 +66,7 @@
 <style>
     .t1_cc{
         color: #007bff;
+        text-align: center;
     }
     .t2_cc{
         color: #007bff;

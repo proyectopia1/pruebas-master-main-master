@@ -1,15 +1,11 @@
-<script>
-
-</script>
-
 <main>
 <h1 class="t1_cc">
     CONTABILIZACION DE OPERACIONES COMERCIALES Y FINANCIERAS
 </h1>
 <p>
-    La media técnica en contabilización de operaciones comerciales <br> y financieras 
+    La media técnica en contabilización de operaciones comerciales y financieras 
      es un programa educativo que te prepara para gestionar y registrar 
-     las transacciones económicas de una empresa. <br>
+     las transacciones económicas de una empresa.
     En otras palabras, aprenderás a llevar los libros contables de una manera correcta y eficiente
 </p>
 
@@ -62,6 +58,7 @@
 <style>
     .t1_cc{
         color: #ffd94d;
+        text-align: center;
     }
     .t2_cc{
         color: #ffd94d;

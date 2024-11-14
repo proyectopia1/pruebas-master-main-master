@@ -1,7 +1,3 @@
-<script>
-
-</script>
-
 <main>
 <h1 class="t1_cc">
     TECNICO LABORAL EN RECREACION Y DEPORTE
